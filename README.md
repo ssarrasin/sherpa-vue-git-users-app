@@ -1,4 +1,4 @@
-# Basic vue, vue-router boilerplate for starting projects with webpack4
+# Sherpa GIR users demo app
 
 ### start
 
@@ -19,7 +19,7 @@ npm run build
 
 ### preview
 
-![Preview](https://github.com/CoonJS/vue-vue-router-simple-boilerplate/blob/master/src/assets/Preview.png?raw=true "Preview")
+![Preview](https://github.com/ssarrasin/sherpa-vue-git-users-app/tree/master/src/assets/Preview.png?raw=true "Preview")
 
 
 
