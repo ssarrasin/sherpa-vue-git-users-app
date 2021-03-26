@@ -1,7 +1,7 @@
 {
   "name": "vue-vue-router-simple-boilerplate",
   "version": "1.0.0",
-  "description": "Sherpa GIR users demo app",
+  "description": "Sherpa GIT users demo app",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open",

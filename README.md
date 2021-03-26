@@ -1,4 +1,4 @@
-# Sherpa GIR users demo app
+# Sherpa GIT users demo app
 
 ### start
 
