@@ -19,7 +19,7 @@ npm run build
 
 ### preview
 
-![Preview](https://github.com/ssarrasin/sherpa-vue-git-users-app/tree/master/src/assets/Preview.png?raw=true "Preview")
+![Preview](https://github.com/ssarrasin/sherpa-vue-git-users-app/blob/master/src/assets/Preview.png "Preview")
 
 
 
